@@ -1,6 +1,10 @@
 # Git Flow Integration Plus for Intellij
 
-### Available @ [JetBrains Plugins Repository][1]
+## Usage
+1. Add plugin repository https://rs-interface.rainsheep.cn/static/jetbrains
+2. search plugin "Git Flow Pro"
+
+## Available @ [JetBrains Plugins Repository][1]
 
 
 An intelliJ plugin providing a UI layer for git-flow, which in itself is a collection of Git extensions to provide high-level repository operations for Vincent [Driessen's branching model](http://nvie.com/git-model).
